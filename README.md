@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@medium.bastard-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mediumn.bastard/)](https://instagram.com/medium.bastard)
 [![Gmail Badge](https://img.shields.io/badge/-justis710-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
-#### I'm Justis. I'm a Software Engineer and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), and Python. Bootcamp graduate, working through a Google Certification, IT Automation Specialist with Python. Having developed webapps and web pages, I have found that my interest lies in software architecture, devops, and reliability.
+#### I'm Justis. I'm a Software Engineer and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), and Python. Bootcamp graduate, working through a Google Certification, IT Automation Specialist with Python. Having developed webapps and web pages, I have found that my interest lies in software architecture, devops, and reliability. So as I said, I'm attaining the certificate and working on small personal projects focusing on scalable infrastructure. Mainly using terraform to spin up AWS resources.
 
 <!--
 **justisGipson/justisGipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
