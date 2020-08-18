@@ -1,10 +1,9 @@
 ### Hey 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-justisgipson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justis-gipson-00275216a/)](https://www.linkedin.com/in/justis-gipson-00275216a/)
-[![Website Badge](https://img.shields.io/badge/-justisgipson.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://justisgipson.com)](https://justisgipson.com)
-[![Twitter Badge](https://img.shields.io/badge/-@j_gipson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/j_gipson)](https://twitter.com/j_gipson)
-[![Instagram Badge](https://img.shields.io/badge/-@medium.bastard-green?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mediumn.bastard/)](https://instagram.com/medium.bastard)
-[![Gmail Badge](https://img.shields.io/badge/-justis710-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-justisgipson.com-4486F3?style=flat&logo=Google-Chrome&logoColor=white&link=https://justisgipson.com)](https://justisgipson.com)
+[![Twitter Badge](https://img.shields.io/badge/-@j_gipson-39B8FF?style=flat&labelColor=FEFEFE&logo=twitter&logoColor=white&link=https://twitter.com/j_gipson)](https://twitter.com/j_gipson)
+[![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
 #### I'm Justis. I'm a Software Engineer and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), and Python. Bootcamp graduate, working through a Google Certification, IT Automation Specialist with Python. Having developed webapps and web pages, I have found that my interest lies in software architecture, devops, and reliability. So as I said, I'm attaining the certificate and working on small personal projects focusing on scalable infrastructure. Mainly using terraform to spin up AWS resources.
 
