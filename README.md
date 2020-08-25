@@ -17,3 +17,5 @@
 - :coffee: Ask me about backpacking and glassblowing.
 - 📫 How to reach me: justis710@gmail.com, [Portfolio](https://justisgipson.com)
 - :floppy_disk: Find my resume on NPM as a interactive CLI tool - [NPM Resume](https://www.npmjs.com/package/justis-resume)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true" alt="justisGipson" /> </h1>
