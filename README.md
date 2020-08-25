@@ -2,7 +2,7 @@
 **justisGipson/justisGipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Justis Gipson
+<h3 align='center> Justis Gipson </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-justisgipson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justis-gipson-00275216a/)](https://www.linkedin.com/in/justis-gipson-00275216a/) &nbsp; &nbsp;
 [![Website Badge](https://img.shields.io/badge/-justisgipson.com-4486F3?style=flat&logo=Google-Chrome&logoColor=white&link=https://justisgipson.com)](https://justisgipson.com) &nbsp; &nbsp;
@@ -17,6 +17,8 @@
 - :coffee: Ask me about backpacking and glassblowing.
 - 📫 How to reach me: justis710@gmail.com, [Portfolio](https://justisgipson.com)
 - :floppy_disk: Find my resume on NPM as a interactive CLI tool - [NPM Resume](https://www.npmjs.com/package/justis-resume)
-
+<br>
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true" alt="justisGipson" /> </h1>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justisGipson" alt="justisGipson" /> </p>
