@@ -19,6 +19,8 @@
 - :floppy_disk: Find my resume on NPM as a interactive CLI tool - [NPM Resume](https://www.npmjs.com/package/justis-resume)
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true" alt="justisGipson" /> </h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&theme=synthwave" alt="justisGipson" /> </h1>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&layout=compact&theme=synthwave)](https://github.com/justisGipson/github-readme-stats)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justisGipson" alt="justisGipson" /> </p>
