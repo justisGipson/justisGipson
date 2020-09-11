@@ -15,8 +15,8 @@
 - :snake: I’m currently learning IT Automation w/ Python, Terraform, AWS, GCP.
 - :evergreen_tree: I’m looking for help with gaining the experience and knowledge to start a good career that I can grow in.
 - :coffee: Ask me about backpacking and glassblowing.
-- 📫 How to reach me: justis710@gmail.com, [Portfolio](https://justisgipson.com)
 - :floppy_disk: Find my resume on NPM as a interactive CLI tool - [NPM Resume](https://www.npmjs.com/package/justis-resume)
+
 <br>
 <br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&theme=dark&count_private=true" alt="justisGipson" /> </h1>
