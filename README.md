@@ -2,7 +2,7 @@
 **justisGipson/justisGipson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align='center'> Justis Gipson </h3>
+<h3 align='left'> Justis Gipson </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-justisgipson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justis-gipson-00275216a/)](https://www.linkedin.com/in/justis-gipson-00275216a/) &nbsp; &nbsp;
 [![Website Badge](https://img.shields.io/badge/-justisgipson.com-4486F3?style=flat&logo=Google-Chrome&logoColor=white&link=https://justisgipson.com)](https://justisgipson.com) &nbsp; &nbsp;
