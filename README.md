@@ -19,8 +19,9 @@
 
 <br>
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&theme=dark&count_private=true" alt="justisGipson" /> </h1>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&theme=dark&count_private=true" alt="justisGipson" />
 <br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&layout=compact&theme=dark&count_private=true" />
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=justisGipson" alt="justisGipson" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=justisGipson" alt="justisGipson" /> </p>
+ -->
