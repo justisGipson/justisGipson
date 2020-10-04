@@ -9,11 +9,17 @@
 [![Twitter Badge](https://img.shields.io/badge/-@j_gipson-39B8FF?style=flat&labelColor=39B8FF&logo=twitter&logoColor=white&link=https://twitter.com/j_gipson)](https://twitter.com/j_gipson) &nbsp; &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
-#### I'm a Software Engineer and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), but also work with Python, Go, Docker, and Ruby. Bootcamp graduate, working through a Google Certification, IT Automation Specialist with Python. Having developed webapps, cli tools, and web pages- I have found that my interest lies in software architecture, devops, and reliability. I'm attaining the certificate and working on small personal projects focusing on how to build a scalable infrastructure, mainly using terraform to spin up AWS resources right now.
+#### I'm a Software Engineer at Codelicious and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), but also work with Python, Go, Docker. 
+
+#### Bootcamp graduate, working through a Google Certification, IT Automation Specialist with Python.
+
+#### I'm working on the certificate and working on small personal projects focusing on how to build a scalable infrastructure, mainly using terraform to spin up AWS and GCP resources right now.
+
+####  Having developed webapps, cli tools, and web pages- I have found that my interest lies in software architecture, devops, and reliability.
 
 - :computer: I’m currently working on gettting a Google IT Automation Specialist Certificate.
 - :snake: I’m currently learning IT Automation w/ Python, Terraform, AWS, GCP.
-- :evergreen_tree: I’m looking for help with gaining the experience and knowledge to start a good career that I can grow in.
+- :evergreen_tree: I’m looking for help with gaining the experience and knowledge
 - :coffee: Ask me about backpacking and glassblowing.
 - :floppy_disk: Find my resume on NPM as a interactive CLI tool - [NPM Resume](https://www.npmjs.com/package/justis-resume)
 
