@@ -21,7 +21,7 @@
 - :snake: Learning - Terraform, GCP, Automation
 - :evergreen_tree: I’m looking for mentorship to help me gain the experience and knowledge to eventually get into a Devops or SRE role
 - :coffee: Ask me about backpacking and glassblowing
-- :floppy_disk: Find my resume on NPM as a interactive CLI tool - [NPM Resume](https://www.npmjs.com/package/justis-resume)
+- :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume)
 
 <br>
 <br>
