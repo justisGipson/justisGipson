@@ -13,7 +13,7 @@
 
 #### Bootcamp graduate, Google Certification - IT Automation Specialist with Python.
 
-#### Focusin on how to build reliable and scalable infrastructure, learning more about Terraform, Puppet, Ansible and Google Cloud Platform.
+#### Focusing on how to build reliable and scalable infrastructure, learning more about Terraform, Puppet, Ansible and Google Cloud Platform.
 
 ####  Having developed webapps, cli tools, and web pages- I have found that my interest lies in software architecture, devops, and reliability.
 
