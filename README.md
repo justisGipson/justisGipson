@@ -25,7 +25,7 @@
 
 <br>
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&theme=monokai&count_private=true" alt="justisGipson" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&theme=monokai&count_private=true" alt="justisGipson stats" />
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&langs_count=10&layout=compact&theme=monokai&count_private=true" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&langs_count=10&layout=compact&theme=monokai&count_private=true" alt="justisGipson langs" />
 <br>
