@@ -25,7 +25,8 @@
 
 <br>
 <br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&theme=monokai&count_private=true" alt="justisGipson stats" />
+![Justis' github stats](https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&count_private=true&theme=monokai&hide=jupyter%20notebook)
+
 <br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&langs_count=10&layout=compact&theme=monokai&count_private=true" alt="justisGipson langs" />
 <br>
