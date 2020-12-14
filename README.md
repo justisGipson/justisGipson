@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@j__gipson-39B8FF?style=flat&labelColor=39B8FF&logo=twitter&logoColor=white&link=https://twitter.com/j__gipson)](https://twitter.com/j__gipson) &nbsp; &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
-#### I'm a Software Engineer at Codelicious and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), but also work with Python, Go, Docker. 
+#### Software Engineer at [Codelicious](https://www.codelicious.com/) and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), but also work with Python, Go, Docker, and Google Cloud Platform. 
 
 #### Bootcamp graduate, Google Certification - IT Automation Specialist with Python.
 
