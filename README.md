@@ -11,7 +11,9 @@
 
 #### Software Engineer at [Codelicious](https://www.codelicious.com/) and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), but also work with Python, Go, Docker, and Google Cloud Platform. 
 
-#### Bootcamp graduate, Google Certification - IT Automation Specialist with Python.
+#### Bootcamp graduate - 2018 JavaScript Cohort [Eleven Fifty Academy](https://elevenfifty.org/)
+
+#### Google Certified - IT Automation Specialist with Python [Google IT Automation Specialist](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
 
 #### Focusing on how to build reliable and scalable infrastructure, learning more about Terraform, Puppet, Ansible and Google Cloud Platform.
 
