@@ -9,7 +9,22 @@
 [![Twitter Badge](https://img.shields.io/badge/-@j__gipson-39B8FF?style=flat&labelColor=39B8FF&logo=twitter&logoColor=white&link=https://twitter.com/j__gipson)](https://twitter.com/j__gipson) &nbsp; &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
-#### Software Engineer at [Codelicious](https://www.codelicious.com/) and a glass artist. Mainly work with JavaScript (React.JS, Node.JS), but also work with Python, Go, Docker, and Google Cloud Platform. 
+#### Software Engineer at [Codelicious](https://www.codelicious.com/) and a glass artist. 
+
+#### Things I work with:
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<!--   <img alt="python" src="https://img.shields.io/badge/-Python-?style=flat-square&logo=git&logoColor=white" /> -->
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</p>
+
+
 
 #### Bootcamp graduate: 2018 JavaScript Cohort – [Eleven Fifty Academy](https://elevenfifty.org/)
 
