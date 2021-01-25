@@ -9,7 +9,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@j__gipson-39B8FF?style=flat&labelColor=39B8FF&logo=twitter&logoColor=white&link=https://twitter.com/j__gipson)](https://twitter.com/j__gipson) &nbsp; &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
-#### Software Engineer at [Codelicious](https://www.codelicious.com/) and a teaching glass artist at [Indianapolis Art Center](https://www.indplsartcenter.org/). 
+#### Software Engineer at [Codelicious](https://www.codelicious.com/) and a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
 
 #### Some things I work with:
 <p>
