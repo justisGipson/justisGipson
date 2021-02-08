@@ -28,11 +28,11 @@
 
 #### Bootcamp graduate: 2018 JavaScript Cohort – [Eleven Fifty Academy](https://elevenfifty.org/)
 
-#### Google Certified: IT Automation Specialist with Python – [Google IT Automation Specialist](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
+#### Google Certified IT Automation Specialist with Python – [Google IT Automation Specialist Cert](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
 
 #### Focusing on how to build reliable and scalable infrastructure, learning more about Terraform, Puppet, Ansible and Google Cloud Platform.
 
-####  Having developed webapps, cli tools, and web pages- I have found that my interest lies in software architecture, devops, and reliability.
+####  Having developed webapps, cli tools, and web pages- I have found that my interests primarily lie in automation, devops, and reliability.
 
 - :computer: Google IT Automation Specialist
 - :snake: Learning - Terraform, GCP, Automation
