@@ -36,12 +36,12 @@
 
 #### Google Certified IT Automation Specialist with Python – [Google IT Automation Specialist Cert](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
 
-#### Focusing on how to build reliable and scalable infrastructure, learning more about Terraform, Puppet, Ansible and Google Cloud Platform.
+#### Focusing on how to build reliable and scalable infrastructure, learning more about Rust, Go, Terraform, Ansible and Google Cloud Platform.
 
 ####  Having developed webapps, cli tools, and web pages- I have found that my interests primarily lie in automation, devops, and reliability.
 
 - :computer: Google IT Automation Specialist
-- :snake: Learning - Terraform, GCP, Automation
+- :snake: Learning - Rust, Go, Terraform, GCP
 - :evergreen_tree: I’m looking for mentorship to help me gain the experience and knowledge to eventually get into a Devops or SRE role
 - :coffee: Ask me about backpacking and glassblowing
 - :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume)
