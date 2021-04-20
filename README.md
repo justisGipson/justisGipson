@@ -13,25 +13,25 @@
 
 #### Some of the things I work with:
 <p>
-  <img alt="react.js" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="react.js" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=plactis&logo=Node.js&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="google cloud platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="google cloud platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=plastic&logo=google-cloud&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=plastic&logo=npm&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img alt="bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white" />
 &nbsp; &nbsp;
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=plastic&logo=rust&logoColor=white" />
 &nbsp; &nbsp;
 </p>
 
