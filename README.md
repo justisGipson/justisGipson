@@ -11,7 +11,7 @@
 
 #### Software Engineer at [Codelicious](https://www.codelicious.com/) and a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
 
-#### Some of the things I work with:
+#### Some things I like to work with:
 <p>
   <img alt="react.js" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
 &nbsp; &nbsp;
