@@ -43,7 +43,7 @@
 
 #### Focusing on how to build reliable and scalable infrastructure, learning more about Rust, Go, Terraform, Ansible and Google Cloud Platform.
 
-####  Having developed webapps, cli tools, and web pages- I have found that my interests primarily lie in automation, devops, and reliability.
+####  Having developed apps, web pages, & cli tools - I have found that my interests primarily lie in automation, devops, and reliability.
 
 - :computer: Google IT Automation Specialist
 - :snake: Learning - Rust, Go, Terraform, GCP
