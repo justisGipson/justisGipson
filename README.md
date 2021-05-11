@@ -15,7 +15,7 @@
 <p>
   <img alt="react.js" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
 &nbsp;
-  <img alt="node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=plactis&logo=Node.js&logoColor=white" />
+  <img alt="node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=plastic&logo=Node.js&logoColor=white" />
 &nbsp;
   <img alt="google cloud platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=plastic&logo=google-cloud&logoColor=white" />
 &nbsp;
