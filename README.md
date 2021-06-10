@@ -43,8 +43,7 @@
 
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&count_private=true&theme=monokai&hide_border=true" alt="justisGipson stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&count_private=true&theme=monokai&hide_border=true" alt="justisGipson stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&langs_count=10&layout=compact&theme=monokai&hide_border=true&count_private=true&hide=jupyter%20notebook,css,html" alt="justisGipson langs" />
+<br>
 
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&langs_count=10&layout=compact&theme=monokai&hide_border=true&count_private=true&hide=jupyter%20notebook,css,html" alt="justisGipson langs" />
-<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=justisGipson&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
