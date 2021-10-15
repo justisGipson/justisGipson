@@ -38,11 +38,11 @@
 
 #### Focusing on how to build reliable and scalable infrastructure, learning more about Rust, Go, Terraform, Ansible and Google Cloud Platform.
 
-####  Having developed apps, web pages, & cli tools - I have found that my interests primarily lie in automation, devops, and reliability.
+####  Having developed apps, web pages, & cli tools - I have found that my interests primarily lie in infrastructure, automation, devops & reliability.
 
 - :computer: Google IT Automation Specialist
 - :snake: Learning - Rust, Go, Terraform, GCP
-- :evergreen_tree: I’m seeking mentorship to help guide me through gaining the relevant experience and knowledge to get into a Devops or SRE role
+- :evergreen_tree: seeking mentorship to help guide me through gaining the relevant experience and knowledge to get into a Devops or SRE role
 - :coffee: Ask me about backpacking and glassblowing
 - :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume)
 
