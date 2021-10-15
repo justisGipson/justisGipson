@@ -32,6 +32,8 @@
 
 #### Bootcamp graduate: 2018 JavaScript Cohort – [Eleven Fifty Academy](https://elevenfifty.org/)
 
+#### Google Cloud DevOps Engineer - Currently a WIP – [Cloud DevOps Engineer](https://www.coursera.org/specializations/sre-devops-engineer-google-cloud)
+
 #### Google Certified IT Automation Specialist with Python – [Google IT Automation Specialist Cert](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
 
 #### Focusing on how to build reliable and scalable infrastructure, learning more about Rust, Go, Terraform, Ansible and Google Cloud Platform.
