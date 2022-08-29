@@ -5,8 +5,6 @@
 <h3 align='left'> Justis Gipson </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-justisgipson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justis-gipson-00275216a/)](https://www.linkedin.com/in/justis-gipson-00275216a/)
-[![Website Badge](https://img.shields.io/badge/-justisgipson.com-4486F3?style=flat&logo=html5&logoColor=white&link=https://justisgipson.com)](https://justisgipson.com)
-[![Twitter Badge](https://img.shields.io/badge/-@j__gipson-39B8FF?style=flat&labelColor=39B8FF&logo=twitter&logoColor=white&link=https://twitter.com/j__gipson)](https://twitter.com/j__gipson)
 [![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
@@ -16,6 +14,7 @@
 #### Some things I work with:
 <p>
   <img alt="node.js" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
   <img alt="google cloud platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat&logo=google-cloud&logoColor=white" />
   <img alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
