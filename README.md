@@ -9,7 +9,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
-#### Software Engineer at [Codelicious](https://www.codelicious.com/) and formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
+#### Software Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) and formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
 
 #### Some things I work with:
 <p>
