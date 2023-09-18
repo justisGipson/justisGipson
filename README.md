@@ -9,7 +9,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/vintage.png)
 
-#### Software Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) and formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
+#### Software Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) where I manage all the cloud infrastructure and do mostly backend development. And formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
 
 #### Some things I work with:
 <p>
@@ -35,13 +35,13 @@
 
 #### Google Certified IT Automation Specialist with Python – [Google IT Automation Specialist Cert](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
 
-#### Focusing on how to build reliable and scalable infrastructure, learning more about Rust, Go, Terraform, Ansible and Google Cloud Platform.
+#### Focusing on how to build reliable and scalable infrastructure, learning more about Rust, Go, Terraform, Ansible and AWS.
 
 ####  Having developed apps, web pages, & cli tools - I have found that my interests primarily lie in infrastructure, automation, devops & reliability.
 
 - :computer: Google IT Automation Specialist
-- :snake: Learning - Rust, Go, Terraform, GCP
-- :evergreen_tree: seeking mentorship to help guide me through gaining the relevant experience and knowledge to get into a Devops or SRE role
+- :snake: Learning - Rust, Go, Terraform, AWS
+- :evergreen_tree: seeking mentorship to help guide me through gaining the relevant experience and knowledge to get into a proper Devops or SRE role
 - :coffee: Ask me about backpacking and glassblowing
 - :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume)
 
