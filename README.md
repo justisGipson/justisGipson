@@ -35,15 +35,20 @@ Having developed apps, web pages, & cli tools - I have found that my interests p
 - :coffee: Ask me about backpacking and glassblowing
 - :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume)
 
-<br>
-<br>
+<br />
+<br />
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=justisGipson&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true&count_private=true" alt="justisGipson stats" />
-  <br>
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justisGipson&langs_count=8&hide_title=true&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=jupyter%20notebook,css,html,vue,ruby" alt="justisGipson langs" /> 
 </p>
-<br>
+<br />
 
 #### Give me a holler:
 [![Linkedin Badge](https://img.shields.io/badge/-justisgipson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justis-gipson-00275216a/)](https://www.linkedin.com/in/justis-gipson-00275216a/)
 [![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
+
+<br />
+<br />
+
+![](https://komarev.com/ghpvc/?username=justisGipson&color=blueviolet)
