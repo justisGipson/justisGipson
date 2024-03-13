@@ -31,9 +31,10 @@ Focusing on how to build reliable and scalable infrastructure, learning more abo
 
 Having developed apps, web pages, & cli tools - I have found that my interests primarily lie in infrastructure, automation, devops & reliability.
 
-- :computer: Google IT Automation Specialist & DevOps Engineer
-- :snake: Learning - Rust, Go, Terraform, all things AWS
+- :snake: Learning - Rust, Go
+- :diving_mask: Deep Dives into Terraform and AWS DevOps
 - :coffee: Ask me about backpacking and glassblowing
+- :computer: Google IT Automation Specialist & DevOps Engineer
 - :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume)
 
 <br />
