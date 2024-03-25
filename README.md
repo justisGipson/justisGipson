@@ -54,8 +54,8 @@ Having developed apps, web pages, & cli tools - I have found that my interests p
 <br />
 
 #### Give me a holler:
-[![Linkedin Badge](https://img.shields.io/badge/-justisgipson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justis-gipson-00275216a/)](https://www.linkedin.com/in/justis-gipson-00275216a/)
-[![Gmail Badge](https://img.shields.io/badge/-justis710-DE4C40?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-justisgipson-teal?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justis-gipson-00275216a/)](https://www.linkedin.com/in/justis-gipson-00275216a/)
+[![Gmail Badge](https://img.shields.io/badge/-justis710-purple?style=flat&logo=Gmail&logoColor=white&link=mailto:justis710@gmail.com)](mailto:justis710@gmail.com)
 
 <br />
 <br />
