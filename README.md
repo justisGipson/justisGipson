@@ -4,7 +4,8 @@
 
 <h3 align='left'> Justis Gipson </h3>
 
-#### DevOps Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) where I manage all the cloud infrastructure and do mostly backend development. And formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
+#### DevOps Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) where I manage all the cloud infrastructure, backend development, databases, and am the Google Workspace admin.
+And formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
 
 #### Some things I work with:
 <p>
