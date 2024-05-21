@@ -31,15 +31,13 @@ Google Certified IT Automation Specialist with Python – [Google IT Automation 
 Focusing on how to build reliable, performant, and scalable infrastructure. 
 
 Learning more about: 
-  - Go, Rust
+  - Go
   - Terraform, IaC
-  - AWS
-  - Networking
-  - Security
+  - Kubernetes
 
 Having developed apps, web pages, & cli tools - I have found that my interests primarily lie in infrastructure, automation, devops & reliability.
 
-- :snake: Learning - Rust, Go
+- ⎈ Learning - Go, Kubernetes 
 - :diving_mask: Deep Dives into Terraform and AWS DevOps
 - :coffee: Ask me about my backpacking or glassblowing experience
 - :computer: Google IT Automation Specialist & GCP DevOps Engineer, studying for AWS DOP & Hashicorp Terraform certifications
