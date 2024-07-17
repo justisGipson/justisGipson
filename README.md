@@ -27,23 +27,25 @@ And formerly, a teaching glass artist at the [Indianapolis Art Center](https://w
 
 
 
-Bootcamp graduate: 2018 JavaScript Cohort – [Eleven Fifty Academy](https://elevenfifty.org/)
+<!--   Bootcamp graduate: 2018 JavaScript Cohort – [Eleven Fifty Academy](https://elevenfifty.org/)
 
 Google Cloud DevOps Engineer - [Cloud DevOps Engineer](https://www.coursera.org/specializations/sre-devops-engineer-google-cloud)
 
 Google Certified IT Automation Specialist with Python – [Google IT Automation Specialist Cert](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite)
+-->
 
 Focusing on how to build reliable, performant, and scalable infrastructure. 
 
+<!--
 Learning more about: 
   - Go
   - Terraform, IaC
   - Kubernetes
+-->
 
 Having developed apps, web pages, & cli tools - I have found that my interests primarily lie in infrastructure, automation, devops & reliability.
 
-- ⎈ Learning - Go, Kubernetes 
-- :diving_mask: Deep Dives into Terraform and AWS DevOps
+- :diving_mask: Deep Dives into Go, Terraform, k8s and AWS DevOps
 - :coffee: Ask me about my backpacking or glassblowing experience
 - :computer: Google IT Automation Specialist & GCP DevOps Engineer, studying for AWS DOP & Hashicorp Terraform certifications
 - :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume) <sup>which is quite out of date right now</sup>
