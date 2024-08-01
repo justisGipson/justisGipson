@@ -4,7 +4,7 @@
 
 <h3 align='left'> Justis Gipson </h3>
 
-#### DevOps Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) where I manage all the cloud infrastructure, backend development, databases, and am the Google Workspace admin.
+#### __NEW__ SRE at [BookNook](https://booknook.com). Former DevOps Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) where I managed all the cloud infrastructure, backend development, databases, and am the Google Workspace admin.
 And formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
 
 #### Some things I work with:
@@ -48,7 +48,7 @@ Having developed apps, web pages, & cli tools - I have found that my interests p
 - :diving_mask: Deep Dives into Go, Terraform, k8s and AWS DevOps
 - :coffee: Ask me about my backpacking or glassblowing experience
 - :computer: Google IT Automation Specialist & GCP DevOps Engineer, studying for AWS DOP & Hashicorp Terraform certifications
-- :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume) <sup>which is quite out of date right now</sup>
+- :floppy_disk: Find my resume on [npm](https://npmjs.com) as a interactive CLI tool - [npm Resume](https://www.npmjs.com/package/justis-resume) <sup>which is quite out of date right now</sup> Or check - https://github.com/justisGipson/go_resume - for the new one!
 
 <br />
 <br />
