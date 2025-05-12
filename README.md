@@ -4,7 +4,7 @@
 
 <h3 align='left'> Justis Gipson </h3>
 
-#### __NEW__ SRE at [BookNook](https://booknook.com). Former DevOps Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) where I managed all the cloud infrastructure, backend development, databases, and am the Google Workspace admin.
+#### SRE at [BookNook](https://booknook.com). Former DevOps Engineer at [Ellipsis Education](https://www.ellipsiseducation.com/) where I managed all the cloud infrastructure, backend development, databases, and am the Google Workspace admin.
 And formerly, a teaching glass artist at the [Indianapolis Art Center](https://www.indplsartcenter.org/). 
 
 #### Some things I work with:
